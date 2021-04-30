@@ -1,6 +1,6 @@
-export default function Skelton() {
+export default function Skeleton() {
   return (
-    <div className="skelton">
+    <div className="skeleton">
       <div className="s-banner"></div>
       <div className="s-header"></div>
       <div className="s-content"></div>
@@ -28,10 +28,7 @@ export default function Skelton() {
           padding: 8px 0;
           max-width: 1000px;
         }
-      `}
-
-      </style>
-
+      `}</style>
     </div>
   )
 }
